@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Examples2\Example009_IntroArray\Example010_Method array\Example010_ArrayLibrary\bin\Debug\net6.0\Example010_ArrayLibrary.exe
+C:\Users\user\Desktop\Examples2\Example009_IntroArray\Example010_Method array\Example010_ArrayLibrary\bin\Debug\net6.0\Example010_ArrayLibrary.deps.json
+C:\Users\user\Desktop\Examples2\Example009_IntroArray\Example010_Method array\Example010_ArrayLibrary\bin\Debug\net6.0\Example010_ArrayLibrary.runtimeconfig.json
+C:\Users\user\Desktop\Examples2\Example009_IntroArray\Example010_Method array\Example010_ArrayLibrary\bin\Debug\net6.0\Example010_ArrayLibrary.dll
+C:\Users\user\Desktop\Examples2\Example009_IntroArray\Example010_Method array\Example010_ArrayLibrary\bin\Debug\net6.0\Example010_ArrayLibrary.pdb
+C:\Users\user\Desktop\Examples2\Example009_IntroArray\Example010_Method array\Example010_ArrayLibrary\obj\Debug\net6.0\Example010_ArrayLibrary.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Examples2\Example009_IntroArray\Example010_Method array\Example010_ArrayLibrary\obj\Debug\net6.0\Example010_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Examples2\Example009_IntroArray\Example010_Method array\Example010_ArrayLibrary\obj\Debug\net6.0\Example010_ArrayLibrary.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Examples2\Example009_IntroArray\Example010_Method array\Example010_ArrayLibrary\obj\Debug\net6.0\Example010_ArrayLibrary.AssemblyInfo.cs
+C:\Users\user\Desktop\Examples2\Example009_IntroArray\Example010_Method array\Example010_ArrayLibrary\obj\Debug\net6.0\Example010_ArrayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Examples2\Example009_IntroArray\Example010_Method array\Example010_ArrayLibrary\obj\Debug\net6.0\Example010_ArrayLibrary.dll
+C:\Users\user\Desktop\Examples2\Example009_IntroArray\Example010_Method array\Example010_ArrayLibrary\obj\Debug\net6.0\refint\Example010_ArrayLibrary.dll
+C:\Users\user\Desktop\Examples2\Example009_IntroArray\Example010_Method array\Example010_ArrayLibrary\obj\Debug\net6.0\Example010_ArrayLibrary.pdb
+C:\Users\user\Desktop\Examples2\Example009_IntroArray\Example010_Method array\Example010_ArrayLibrary\obj\Debug\net6.0\Example010_ArrayLibrary.genruntimeconfig.cache
+C:\Users\user\Desktop\Examples2\Example009_IntroArray\Example010_Method array\Example010_ArrayLibrary\obj\Debug\net6.0\ref\Example010_ArrayLibrary.dll
